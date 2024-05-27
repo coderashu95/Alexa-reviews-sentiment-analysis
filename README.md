@@ -5,7 +5,7 @@
 
 Step 1: Clone the repository
 ```
-git clone 
+git clone https://github.com/coderashu95/Alexa-reviews-sentiment-analysis
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
